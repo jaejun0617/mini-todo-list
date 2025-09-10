@@ -288,8 +288,8 @@ body.dark-theme input + .slider {
    font-size: 1.1rem;
    color: var(--text-secondary);
    border-radius: 50%;
-   width: 18px;
-   height: 18px;
+   width: 15px;
+   height: 15px;
    display: flex;
    align-items: center;
    justify-content: center;
