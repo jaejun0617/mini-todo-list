@@ -251,7 +251,7 @@ body.dark-theme input + .slider {
    display: flex;
    align-items: center;
    gap: 0.75rem;
-   /* padding: 0.75rem; */
+   padding: 0.8rem 0rem;
    margin: 0.25rem 0.5rem;
    border-radius: 12px;
    transition: background-color var(--transition-smooth);
